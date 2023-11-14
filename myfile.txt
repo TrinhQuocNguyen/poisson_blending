@@ -1,0 +1,2898 @@
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000000",
+                "root_videos_dir": "../dataset/batches/batch_000000/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000000",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000010",
+                "root_videos_dir": "../dataset/batches/batch_000010/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000010",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000020",
+                "root_videos_dir": "../dataset/batches/batch_000020/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000020",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000030",
+                "root_videos_dir": "../dataset/batches/batch_000030/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000030",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000040",
+                "root_videos_dir": "../dataset/batches/batch_000040/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000040",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000050",
+                "root_videos_dir": "../dataset/batches/batch_000050/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000050",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000060",
+                "root_videos_dir": "../dataset/batches/batch_000060/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000060",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000070",
+                "root_videos_dir": "../dataset/batches/batch_000070/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000070",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000080",
+                "root_videos_dir": "../dataset/batches/batch_000080/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000080",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000090",
+                "root_videos_dir": "../dataset/batches/batch_000090/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000090",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000100",
+                "root_videos_dir": "../dataset/batches/batch_000100/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000100",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000110",
+                "root_videos_dir": "../dataset/batches/batch_000110/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000110",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000120",
+                "root_videos_dir": "../dataset/batches/batch_000120/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000120",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000130",
+                "root_videos_dir": "../dataset/batches/batch_000130/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000130",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000140",
+                "root_videos_dir": "../dataset/batches/batch_000140/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000140",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000150",
+                "root_videos_dir": "../dataset/batches/batch_000150/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000150",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000160",
+                "root_videos_dir": "../dataset/batches/batch_000160/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000160",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000170",
+                "root_videos_dir": "../dataset/batches/batch_000170/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000170",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000180",
+                "root_videos_dir": "../dataset/batches/batch_000180/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000180",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000190",
+                "root_videos_dir": "../dataset/batches/batch_000190/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000190",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000200",
+                "root_videos_dir": "../dataset/batches/batch_000200/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000200",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000210",
+                "root_videos_dir": "../dataset/batches/batch_000210/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000210",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000220",
+                "root_videos_dir": "../dataset/batches/batch_000220/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000220",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000230",
+                "root_videos_dir": "../dataset/batches/batch_000230/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000230",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000240",
+                "root_videos_dir": "../dataset/batches/batch_000240/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000240",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000250",
+                "root_videos_dir": "../dataset/batches/batch_000250/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000250",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000260",
+                "root_videos_dir": "../dataset/batches/batch_000260/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000260",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000270",
+                "root_videos_dir": "../dataset/batches/batch_000270/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000270",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000280",
+                "root_videos_dir": "../dataset/batches/batch_000280/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000280",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000290",
+                "root_videos_dir": "../dataset/batches/batch_000290/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000290",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000300",
+                "root_videos_dir": "../dataset/batches/batch_000300/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000300",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000310",
+                "root_videos_dir": "../dataset/batches/batch_000310/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000310",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000320",
+                "root_videos_dir": "../dataset/batches/batch_000320/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000320",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000330",
+                "root_videos_dir": "../dataset/batches/batch_000330/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000330",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000340",
+                "root_videos_dir": "../dataset/batches/batch_000340/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000340",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000350",
+                "root_videos_dir": "../dataset/batches/batch_000350/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000350",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000360",
+                "root_videos_dir": "../dataset/batches/batch_000360/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000360",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000370",
+                "root_videos_dir": "../dataset/batches/batch_000370/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000370",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000380",
+                "root_videos_dir": "../dataset/batches/batch_000380/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000380",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000390",
+                "root_videos_dir": "../dataset/batches/batch_000390/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000390",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000400",
+                "root_videos_dir": "../dataset/batches/batch_000400/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000400",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000410",
+                "root_videos_dir": "../dataset/batches/batch_000410/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000410",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000420",
+                "root_videos_dir": "../dataset/batches/batch_000420/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000420",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000430",
+                "root_videos_dir": "../dataset/batches/batch_000430/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000430",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000440",
+                "root_videos_dir": "../dataset/batches/batch_000440/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000440",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000450",
+                "root_videos_dir": "../dataset/batches/batch_000450/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000450",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000460",
+                "root_videos_dir": "../dataset/batches/batch_000460/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000460",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000470",
+                "root_videos_dir": "../dataset/batches/batch_000470/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000470",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000480",
+                "root_videos_dir": "../dataset/batches/batch_000480/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000480",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000490",
+                "root_videos_dir": "../dataset/batches/batch_000490/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000490",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000500",
+                "root_videos_dir": "../dataset/batches/batch_000500/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000500",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000510",
+                "root_videos_dir": "../dataset/batches/batch_000510/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000510",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000520",
+                "root_videos_dir": "../dataset/batches/batch_000520/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000520",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000530",
+                "root_videos_dir": "../dataset/batches/batch_000530/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000530",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000540",
+                "root_videos_dir": "../dataset/batches/batch_000540/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000540",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000550",
+                "root_videos_dir": "../dataset/batches/batch_000550/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000550",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000560",
+                "root_videos_dir": "../dataset/batches/batch_000560/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000560",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000570",
+                "root_videos_dir": "../dataset/batches/batch_000570/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000570",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000580",
+                "root_videos_dir": "../dataset/batches/batch_000580/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000580",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000590",
+                "root_videos_dir": "../dataset/batches/batch_000590/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000590",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000600",
+                "root_videos_dir": "../dataset/batches/batch_000600/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000600",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000610",
+                "root_videos_dir": "../dataset/batches/batch_000610/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000610",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000620",
+                "root_videos_dir": "../dataset/batches/batch_000620/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000620",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000630",
+                "root_videos_dir": "../dataset/batches/batch_000630/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000630",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000640",
+                "root_videos_dir": "../dataset/batches/batch_000640/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000640",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000650",
+                "root_videos_dir": "../dataset/batches/batch_000650/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000650",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000660",
+                "root_videos_dir": "../dataset/batches/batch_000660/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000660",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000670",
+                "root_videos_dir": "../dataset/batches/batch_000670/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000670",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000680",
+                "root_videos_dir": "../dataset/batches/batch_000680/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000680",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000690",
+                "root_videos_dir": "../dataset/batches/batch_000690/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000690",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000700",
+                "root_videos_dir": "../dataset/batches/batch_000700/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000700",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000710",
+                "root_videos_dir": "../dataset/batches/batch_000710/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000710",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000720",
+                "root_videos_dir": "../dataset/batches/batch_000720/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000720",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000730",
+                "root_videos_dir": "../dataset/batches/batch_000730/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000730",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000740",
+                "root_videos_dir": "../dataset/batches/batch_000740/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000740",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000750",
+                "root_videos_dir": "../dataset/batches/batch_000750/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000750",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000760",
+                "root_videos_dir": "../dataset/batches/batch_000760/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000760",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000770",
+                "root_videos_dir": "../dataset/batches/batch_000770/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000770",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000780",
+                "root_videos_dir": "../dataset/batches/batch_000780/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000780",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000790",
+                "root_videos_dir": "../dataset/batches/batch_000790/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000790",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000800",
+                "root_videos_dir": "../dataset/batches/batch_000800/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000800",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000810",
+                "root_videos_dir": "../dataset/batches/batch_000810/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000810",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000820",
+                "root_videos_dir": "../dataset/batches/batch_000820/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000820",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000830",
+                "root_videos_dir": "../dataset/batches/batch_000830/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000830",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000840",
+                "root_videos_dir": "../dataset/batches/batch_000840/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000840",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000850",
+                "root_videos_dir": "../dataset/batches/batch_000850/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000850",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000860",
+                "root_videos_dir": "../dataset/batches/batch_000860/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000860",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000870",
+                "root_videos_dir": "../dataset/batches/batch_000870/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000870",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000880",
+                "root_videos_dir": "../dataset/batches/batch_000880/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000880",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000890",
+                "root_videos_dir": "../dataset/batches/batch_000890/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000890",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000900",
+                "root_videos_dir": "../dataset/batches/batch_000900/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000900",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000910",
+                "root_videos_dir": "../dataset/batches/batch_000910/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000910",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000920",
+                "root_videos_dir": "../dataset/batches/batch_000920/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000920",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000930",
+                "root_videos_dir": "../dataset/batches/batch_000930/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000930",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000940",
+                "root_videos_dir": "../dataset/batches/batch_000940/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000940",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000950",
+                "root_videos_dir": "../dataset/batches/batch_000950/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000950",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000960",
+                "root_videos_dir": "../dataset/batches/batch_000960/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000960",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000970",
+                "root_videos_dir": "../dataset/batches/batch_000970/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000970",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000980",
+                "root_videos_dir": "../dataset/batches/batch_000980/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000980",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_000990",
+                "root_videos_dir": "../dataset/batches/batch_000990/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_000990",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001000",
+                "root_videos_dir": "../dataset/batches/batch_001000/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001000",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001010",
+                "root_videos_dir": "../dataset/batches/batch_001010/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001010",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001020",
+                "root_videos_dir": "../dataset/batches/batch_001020/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001020",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001030",
+                "root_videos_dir": "../dataset/batches/batch_001030/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001030",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001040",
+                "root_videos_dir": "../dataset/batches/batch_001040/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001040",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001050",
+                "root_videos_dir": "../dataset/batches/batch_001050/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001050",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001060",
+                "root_videos_dir": "../dataset/batches/batch_001060/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001060",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001070",
+                "root_videos_dir": "../dataset/batches/batch_001070/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001070",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001080",
+                "root_videos_dir": "../dataset/batches/batch_001080/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001080",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001090",
+                "root_videos_dir": "../dataset/batches/batch_001090/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001090",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001100",
+                "root_videos_dir": "../dataset/batches/batch_001100/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001100",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001110",
+                "root_videos_dir": "../dataset/batches/batch_001110/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001110",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001120",
+                "root_videos_dir": "../dataset/batches/batch_001120/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001120",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001130",
+                "root_videos_dir": "../dataset/batches/batch_001130/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001130",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001140",
+                "root_videos_dir": "../dataset/batches/batch_001140/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001140",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001150",
+                "root_videos_dir": "../dataset/batches/batch_001150/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001150",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001160",
+                "root_videos_dir": "../dataset/batches/batch_001160/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001160",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001170",
+                "root_videos_dir": "../dataset/batches/batch_001170/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001170",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001180",
+                "root_videos_dir": "../dataset/batches/batch_001180/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001180",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001190",
+                "root_videos_dir": "../dataset/batches/batch_001190/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001190",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001200",
+                "root_videos_dir": "../dataset/batches/batch_001200/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001200",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001210",
+                "root_videos_dir": "../dataset/batches/batch_001210/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001210",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001220",
+                "root_videos_dir": "../dataset/batches/batch_001220/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001220",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001230",
+                "root_videos_dir": "../dataset/batches/batch_001230/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001230",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001240",
+                "root_videos_dir": "../dataset/batches/batch_001240/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001240",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
+        },
+        {
+            "type": "MaskedFrameDataLoader",
+            "args":{
+                "name": "batch_001250",
+                "root_videos_dir": "../dataset/batches/batch_001250/",
+                "root_masks_dir": "../dataset/raindrop_mask/",
+                "root_outputs_dir": "../batch_001250",
+                "dataset_args": {
+                    "type": "video",
+                    "w": 512,
+                    "h": 512,
+                    "sample_length": 30,
+                    "random_sample": false,
+                    "random_sample_mask": false,
+                    "mask_type": "fg",
+                    "mask_dilation": 0
+                },
+                "batch_size": 1,
+                "shuffle": false,
+                "validation_split": 0.0,
+                "num_workers": 2
+            }
